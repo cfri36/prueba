@@ -7,7 +7,7 @@ public class PruebaConect {
      */
     public static void main(String[] args) {
         Conex cn = new Conex();
-        cn.getConnection();
+        cn.getConnection();  
     }
 
 }
