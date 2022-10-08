@@ -6,7 +6,7 @@ import java.sql.SQLException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-public class Conex { 
+public class Conex {  //clase para la conexion
  
     String bd = "";
     String url = "jdbc:mysql://localhost:3306/";
